@@ -1,0 +1,1 @@
+GSCAndroid resources README file
